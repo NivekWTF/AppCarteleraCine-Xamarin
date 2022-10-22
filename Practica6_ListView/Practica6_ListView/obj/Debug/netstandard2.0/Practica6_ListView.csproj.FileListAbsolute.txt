@@ -1,0 +1,15 @@
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.csproj.AssemblyReference.cache
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.AssemblyInfoInputs.cache
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.AssemblyInfo.cs
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.csproj.CoreCompileInputs.cache
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\bin\Debug\netstandard2.0\Practica6_ListView.deps.json
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\bin\Debug\netstandard2.0\Practica6_ListView.dll
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\bin\Debug\netstandard2.0\ref\Practica6_ListView.dll
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\bin\Debug\netstandard2.0\Practica6_ListView.pdb
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.dll
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\ref\Practica6_ListView.dll
+C:\Users\KevinPC\source\repos\Practica6_ListView\Practica6_ListView\Practica6_ListView\obj\Debug\netstandard2.0\Practica6_ListView.pdb

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica6_ListView.MainPage" BackgroundColor="#2596be">
+
+    <StackLayout>
+        <Label Text="Películas en Cartelera"
+               FontFamily="Arial"
+               FontSize="Title"
+               TextColor="White"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <ListView x:Name="peliculas" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame Padding="2" Margin="0,5,0,5" HeightRequest="100">
+                        <StackLayout Orientation="Horizontal" BackgroundColor="White">
+                            <Image Source="{Binding Poster}"
+                                   WidthRequest="100"
+                                   HeightRequest="500"/>
+                                <StackLayout>
+                                    <Label Text="{Binding Nombre}"
+                               FontSize="18" TextColor="DarkOrange"
+                               HorizontalOptions="FillAndExpand"/>
+                                    <Label Text="{Binding Director}"
+                               FontSize="14" TextColor="DarkCyan"
+                               HorizontalOptions="FillAndExpand"/>
+                                    <Label Text="{Binding Horarios}"
+                               FontSize="11" TextColor="Black"
+                               HorizontalOptions="FillAndExpand"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+
+                    </ViewCell>
+                    
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
